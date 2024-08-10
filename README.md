@@ -1,5 +1,7 @@
 <h1>Ani-Sync Jellyfin Plugin</h1>
 
+Adapting this for Use with Emby, TOTAL WIP
+
 ## About
 
 Ani-Sync lets you synchorinze your Jellyfin Anime watch progress to popular services. Please [create a discussion](https://github.com/vosmiic/jellyfin-ani-sync/discussions/new/choose) for new feature ideas.
